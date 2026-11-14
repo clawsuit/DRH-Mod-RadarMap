@@ -1,6 +1,7 @@
 # Radar Map
 
-A north-up radar of the dungeon floor, for [Dungeon Rampage Haxe](https://github.com/Tutez64/Dungeon-Rampage-Haxe).
+A little radar in the corner that maps the dungeon floor as you explore, for
+[Dungeon Rampage Haxe](https://github.com/Tutez64/Dungeon-Rampage-Haxe).
 
 <!-- drh:show -->
 A round radar in the top right corner. The camera of the game does not turn, so the map does not
