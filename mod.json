@@ -1,0 +1,11 @@
+{
+  "id": "radarmap",
+  "name": "Radar Map",
+  "description": "A rotating radar of the floor: rooms, corridors, chests, enemies, party and exits.",
+  "version": "0.1.0",
+  "author": "iClawSuit",
+  "api": "1.3",
+  "entry": "Main",
+  "uses": ["extends"],
+  "drh": "17"
+}
